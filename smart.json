@@ -1,0 +1,8 @@
+{
+    "name": "TitleNotifier.js",
+    "description": "Lightweight (< 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title by https://github.com/roshiro bundled for meteor framework",
+    "homepage": "https://github.com/carlcrack/meteor-titlenotifier",
+    "author": "Pascal Spiesz  (http://github.com/carlcrack)",
+    "version": "0.9",
+    "git": "https://github.com/carlcrack/meteor-titlenotifier.git"
+}
